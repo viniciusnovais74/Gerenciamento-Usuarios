@@ -1,7 +1,7 @@
-#Como instalar e Testar
+### Gerenciador de Usuarios com REST-API
+Gerenciador de Usuários com NodeJS no frontend e backend.
 
-Faça o Downlaod de ambas as pastas e abra o arquivo README.md para as demais instrunções
-
-PRE-REQUISITOS:
-
-Instale o nodeJS : https://nodejs.org/
+## Step to Step
+- Install NodeJS any version
+- Open Server in port 3000
+- Open Client in port 3001
